@@ -1,5 +1,5 @@
 # avid-cypress-e2e
-# studytube-QA-automation-test-task
+
 This repository contains the scripts and libraries required to run the automated tests for Avid workflow.
 
 # My Cypress Test Suite
@@ -18,10 +18,10 @@ Before running the tests, make sure you have the following installed on your sys
 
 1. Clone this repository to your local machine:
 
-   ```git clone https://github.com/AlexeyOnyshchenko/studytube-QA-automation-test-task.git```
+   ```https://github.com/OlOnyshchenko/avid-cypress-e2e.git```
 2. Navigate to the project directory:
 
-   ```cd studytube-QA-automation-test-task```
+   ```cd avid-cypress-e2e```
 
 3. Install the project dependencies:
 
