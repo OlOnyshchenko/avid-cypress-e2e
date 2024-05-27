@@ -1,6 +1,10 @@
 
-name: hello-world
-on: push
+name: My-GitHubActions-Basics
+
+on:
+  push:
+    branches:
+      - master
 jobs:
   my-job:
     runs-on: ubuntu-latest
